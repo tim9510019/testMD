@@ -16,6 +16,6 @@ test readme.md style
 
 `x = [1, 2, 3, 0, 4, 5, 6, 0, 7, 8]`. Result is `y = 4 + 7 = 11`.
 
-'''
+```
 import pandas as pd
-'''
+```
